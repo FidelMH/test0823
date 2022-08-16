@@ -1,0 +1,6 @@
+/* mon custom css */
+
+img{
+    height: 400px;
+    object-fit: cover;
+}
